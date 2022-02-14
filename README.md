@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working to complete my Full Stack program at Bloom Institute of Technology! 
+- 🔭 I’m currently working *tirelessly* to complete my Full Stack program at Bloom Institute of Technology! 
 - 🌱 I’m currently learning anything I can get my hands on, full-on sponge mode 🧽
 - ⚡ In my spare time I create full stack applications and study computer algorithms
 - 📫 Reach me at <a href="https://www.linkedin.com/in/john-merz/">
