@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm John Merz
 
 <!--
 **jmerz826/jmerz826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working to complete my Full Stack program at Bloom Institute of Technology! 
+- 🌱 I’m currently learning anything I can get my hands on, full-on sponge mode 🧽
+- ⚡ In my spare time I create full stack applications and study computer algorithms
+- 📫 Reach me at https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+
+
+
+
