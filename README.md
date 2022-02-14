@@ -21,7 +21,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> or via <a href="mailto:jmerz826@gmail.com">e-mail</a>
   
-  ## Languages and Tools:
+  ### Background
+  While my background is in mechanical engineering, I quickly came to the realization that software development is where all of the world's innovation is happening. I am dedicated to lifelong learning, and am hopeful that my contributions to the field will be long-lasting.  
+  
+  ### Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
