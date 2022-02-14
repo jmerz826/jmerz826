@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ In my spare time I create full stack applications and study computer algorithms
 - 📫 Reach me at <a href="https://www.linkedin.com/in/john-merz/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> or via <a href="mailto:jmerz826@gmail.com">e-mail</a>
   
   ## Languages and Tools:
 
