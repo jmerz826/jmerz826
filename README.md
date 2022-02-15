@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </a> or via <a href="mailto:jmerz826@gmail.com">e-mail</a>
   
   ### Background
-  While my background is in mechanical engineering, I quickly came to the realization that software development is where all of the innovation, that I had been seeking, is happening. I am dedicated to lifelong learning, and am hopeful that my contributions to the field will be long-lasting.  
+  While my background is in mechanical engineering, I soon came to the realization that software development is where all of the innovation, that I had been seeking, is happening. I am dedicated to lifelong learning, and am hopeful that my contributions to the field will be long-lasting.  
   
   ### Languages and Tools:
 
