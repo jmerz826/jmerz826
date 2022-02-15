@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working *tirelessly* to complete my Full Stack program at Bloom Institute of Technology! 
 - 🌱 I’m currently learning anything I can get my hands on, particularly TypeScript
-- ⚡ In my spare time I create full stack applications and study computer algorithms
+- ⚡ In my spare time I create full stack applications and fiddle with Arduinos!
 - 📫 Reach me at <a target="_blank" href="https://www.linkedin.com/in/john-merz/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> or via <a href="mailto:jmerz826@gmail.com">e-mail</a>
