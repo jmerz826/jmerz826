@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 Reach me at <a target="_blank" href="https://www.linkedin.com/in/john-merz/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> or via <a href="mailto:jmerz826@gmail.com">e-mail</a>
-  <a href="https://www.johnmerz.com/" target="_blank" rel="noreferrer">My Website</a>
+ - <a href="https://www.johnmerz.com/" target="_blank" rel="noreferrer">My Portfolio Page</a>
   
   ### Background
   While my background is in mechanical engineering, I came to the realization that software is where the innovation I had been seeking is happening. I am dedicated to lifelong learning, love to learn from my mistakes, and am hopeful my career contributions will be long-lasting and impactful.  
