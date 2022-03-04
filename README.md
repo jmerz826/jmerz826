@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working *tirelessly* to complete my Full Stack program at Bloom Institute of Technology (fka Lambda School)! 
-- 🌱 I’m currently learning anything I can get my hands on, particularly TypeScript and algorithms at this time
+- 🌱 I’m currently learning anything I can get my hands on, specifically grinding LeetCode these days 🥵
 - ⚡ In my spare time I like to fiddle with Arduinos!
 - 📫 Reach me at <a target="_blank" href="https://www.linkedin.com/in/john-merz/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
