@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working *tirelessly* to complete my Full Stack program at Bloom Institute of Technology (fka Lambda School)! 
 - 🌱 I’m currently learning anything I can get my hands on, specifically grinding LeetCode these days 🥵
 - ⚡ In my spare time I like to fiddle with Arduinos!
-- 📫 Reach me at <a target="_blank" href="https://www.linkedin.com/in/john-merz/">
+- 📫 Reach me at <a href="https://www.linkedin.com/in/john-merz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> or via <a href="mailto:jmerz826@gmail.com">e-mail</a>
  - 💼 <a href="https://www.johnmerz.com/" target="_blank" rel="noreferrer">My Portfolio Page</a>
