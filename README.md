@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working *tirelessly* to complete my Full Stack program at Bloom Institute of Technology (fka Lambda School)! 
 - 🌱 I’m currently learning anything I can get my hands on, specifically technical project management these days
 - ⚡ In my spare time I like to fiddle with Arduinos!
-- 📫 Reach me at  or via <a href="mailto:jmerz826@gmail.com">e-mail</a>
- - 💼 <a href="https://www.johnmerz.com/" target="_blank" rel="noreferrer">My Portfolio Page</a>
-  <a href="https://www.linkedin.com/in/john-merz/" target="_blank">
+- 📫 Reach me at <a href="https://www.linkedin.com/in/john-merz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> or via <a href="mailto:jmerz826@gmail.com">e-mail</a>
+ - 💼 <a href="https://www.johnmerz.com/" target="_blank" rel="noreferrer">My Portfolio Page</a>
+  
   ### Background
   While my background is in mechanical engineering, I came to the realization that software is where the innovation I had been seeking is happening. I am dedicated to lifelong learning, love to learn from my mistakes, and am hopeful my career contributions will be long-lasting and impactful.  
   
