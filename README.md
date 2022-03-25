@@ -23,7 +23,8 @@ Here are some ideas to get you started:
  - 💼 <a href="https://www.johnmerz.com/" target="_blank" rel="noreferrer">My Portfolio Page</a>
   
   ### Background
-  While my background is in mechanical engineering, I came to the realization that software is where the innovation I had been seeking is happening. I am dedicated to lifelong learning, love to learn from my mistakes, and am hopeful my career contributions will be long-lasting and impactful.  
+Although I have a strong background in technical engineering, I realize that the innovation of software technology is exactly perfect for me. Also, I love to learn new things and solve challenges and I know that my continual contributions will have a long impact that will benefit any company.
+
   
   ### Languages and Tools:
 
