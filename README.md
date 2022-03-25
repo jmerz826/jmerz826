@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </a> or via <a href="mailto:jmerz826@gmail.com">e-mail</a>
  - 💼 <a href="https://www.johnmerz.com/" target="_blank" rel="noreferrer">My Portfolio Page</a>
   
-  ### Background
+  ### Background:
 Although I have a strong background in technical engineering, I realize that the innovation of software technology is exactly perfect for me. Also, I love to learn new things and solve challenges and I know that my continual contributions will have a long impact that will benefit any company.
 
   
